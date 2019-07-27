@@ -1,1 +1,1 @@
-# deep-learnning-cv-homework-week 1
+# deep-learnning-cv-homework
